@@ -2,7 +2,7 @@
 // @name         Showdown FR
 // @namespace    http://tampermonkey.net/
 // @version      1.4.2 (Webbeh) retravaillé par la Cyberbase de Biars
-// @icon	 https://raw.githubusercontent.com/Webbeh/UserScript_ShowDown/master/icon2.png
+// @icon	 https://raw.githubusercontent.com/CyberbaseBiars/UserScript_ShowDown/master/icon2.png
 // @description  Pokémon Showdown - Traduction française
 // @author       Weby
 // @license	 MIT
@@ -29,10 +29,11 @@
 // Une traduction par ligne, format :
 //    "<à traduire>": "<traduction>",
 // Si vous devez mettre un signe " , il faut l'écrire \"
-//07032022 Test de Github avec deux petites traductions, used & avoided (Cyberbase Biars)
+// Crédits à Webbeh pour la traduction FR originale
+// 07032022 Test de Github avec deux petites traductions, used & avoided (Cyberbase Biars)
 
 var translations={
-"used": "utilise",
+\"used\": \"utilise\",
 "avoided": "a évité",
 "Bulbasaur": "Bulbizarre",
 "Ivysaur": "Herbizarre",
