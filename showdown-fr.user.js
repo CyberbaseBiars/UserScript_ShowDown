@@ -4359,7 +4359,7 @@ var t= function(originalStr){
         return splitted[0]+"收回了"+translations[splitted[1].replace("!","")]+"！";
     }
     if(tmp.indexOf("Go!")!=-1){
-        return "去吧，"+translations[tmp.replace("Go! ","").replace("!","")]+"！";
+        return "去吧，"+translations[tmp.replace("Go! ","Vas-y!").replace("!","")]+"！";
     }
     //var regex=new RegExp(/(/)
     if(originalStr.match(regex_stat_change)){
