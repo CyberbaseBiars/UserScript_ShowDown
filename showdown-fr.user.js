@@ -30,7 +30,7 @@
 //    "<à traduire>": "<traduction>",
 // Si vous devez mettre un signe " , il faut l'écrire \"
 // Crédits à Webbeh pour la traduction FR originale
-// 07032022 Test de Github avec deux petites traductions, used & avoided (Cyberbase Biars)
+// 07032022 Test de Github avec deux petites traductions, used & avoided (Cyberbase Biars) + test ligne 4362
 
 var translations={
 \"used\": \"utilise\",
